@@ -32,7 +32,7 @@ This repository will continue to evolve as I explore new concepts, patterns, and
 ```
 LLD/
 │
-├── SOLID/
+├── SOLID PRINCIPLES/
 │   ├── SingleResponsibilityPrinciple.java
 │   ├── OpenClosedPrinciple.java
 │   ├── LiskovSubstitutionPrinciple.java
